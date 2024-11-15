@@ -1,0 +1,12 @@
+C:\Users\controls\Documents\Rockwell Automation\FactoryTalk Optix\Projects\FeaturesDemo2-main\ProjectFiles\NetSolution\bin\FeaturesDemo2.deps.json
+C:\Users\controls\Documents\Rockwell Automation\FactoryTalk Optix\Projects\FeaturesDemo2-main\ProjectFiles\NetSolution\bin\FeaturesDemo2.dll
+C:\Users\controls\Documents\Rockwell Automation\FactoryTalk Optix\Projects\FeaturesDemo2-main\ProjectFiles\NetSolution\bin\FeaturesDemo2.pdb
+C:\Users\controls\Documents\Rockwell Automation\FactoryTalk Optix\Projects\FeaturesDemo2-main\ProjectFiles\NetSolution\obj\Debug\FeaturesDemo2.csproj.AssemblyReference.cache
+C:\Users\controls\Documents\Rockwell Automation\FactoryTalk Optix\Projects\FeaturesDemo2-main\ProjectFiles\NetSolution\obj\Debug\FeaturesDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\controls\Documents\Rockwell Automation\FactoryTalk Optix\Projects\FeaturesDemo2-main\ProjectFiles\NetSolution\obj\Debug\FeaturesDemo2.AssemblyInfoInputs.cache
+C:\Users\controls\Documents\Rockwell Automation\FactoryTalk Optix\Projects\FeaturesDemo2-main\ProjectFiles\NetSolution\obj\Debug\FeaturesDemo2.AssemblyInfo.cs
+C:\Users\controls\Documents\Rockwell Automation\FactoryTalk Optix\Projects\FeaturesDemo2-main\ProjectFiles\NetSolution\obj\Debug\FeaturesDemo2.csproj.CoreCompileInputs.cache
+C:\Users\controls\Documents\Rockwell Automation\FactoryTalk Optix\Projects\FeaturesDemo2-main\ProjectFiles\NetSolution\obj\Debug\FeaturesDemo2.dll
+C:\Users\controls\Documents\Rockwell Automation\FactoryTalk Optix\Projects\FeaturesDemo2-main\ProjectFiles\NetSolution\obj\Debug\refint\FeaturesDemo2.dll
+C:\Users\controls\Documents\Rockwell Automation\FactoryTalk Optix\Projects\FeaturesDemo2-main\ProjectFiles\NetSolution\obj\Debug\FeaturesDemo2.pdb
+C:\Users\controls\Documents\Rockwell Automation\FactoryTalk Optix\Projects\FeaturesDemo2-main\ProjectFiles\NetSolution\obj\Debug\ref\FeaturesDemo2.dll
